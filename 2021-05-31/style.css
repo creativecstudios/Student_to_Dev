@@ -48,18 +48,17 @@ body{
 }
 .sidebar button{
     background-color: #555555;
-    border: 1px solid green;    
+    border: 1px solid black;    
     display: block;
     padding: 5px 10px;
     width: 60%;
     text-align: center;
     color: white;
     font-size: 20px;
-    margin-bottom: 145px;
+    margin-bottom: 170px;
+    margin-top: 100px;
 }
 .sidebar{
-    padding-top: 70px;
-    padding-bottom: 200px;
     padding: 56px 0px 56px 76px;
     display: block;
 }
